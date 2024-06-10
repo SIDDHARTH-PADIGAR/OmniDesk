@@ -1,4 +1,11 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+    experimental: {
+        serverActions: true,
+    },
+    images: {
+        domains: ['bosbfhdjudwvgqsvhyfe.supabase.co']
+    },
+};
 
 export default nextConfig;

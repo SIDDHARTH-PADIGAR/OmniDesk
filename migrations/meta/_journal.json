@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1709197507169,
+      "tag": "0000_ambiguous_apocalypse",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1709206242795,
+      "tag": "0001_magical_tempest",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1709206661164,
+      "tag": "0002_warm_tony_stark",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1711428701358,
+      "tag": "0003_remarkable_grandmaster",
+      "breakpoints": true
+    }
+  ]
+}
